@@ -14,3 +14,8 @@ This is about collaboration mechanics
      ;; M-| ;; shell-command-on-region
 
      git push github
+
+`C-x v a' (`vc-update-change-log')
+(vc-update-change-log)
+;; -| does not work for git, here
+
